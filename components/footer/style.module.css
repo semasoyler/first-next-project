@@ -1,0 +1,39 @@
+.footer {
+    @apply bg-custom-dark h-[393px] mt-[-72px]
+}
+
+.footerAll {
+    @apply w-[1111px] mx-auto text-white
+}
+
+.footerContainer {
+    @apply flex justify-between items-center pt-[144px]
+}
+
+.line {
+
+    @apply border-b border-b-white opacity-10 mt-10
+}
+
+.footerContainer ul {
+
+
+    @apply flex gap-10 text-sm font-normal tracking-widest opacity-50
+}
+
+.footerContainer2 {
+    @apply mt-10 flex justify-between items-end
+}
+.footerContainer2 ul,.footerContainer2 p{
+  
+    @apply opacity-50 w-[190px]
+ 
+}
+.contactInfo{
+  
+    @apply flex gap-52 text-base
+    
+}
+.socialIcons{
+    @apply flex gap-5
+}

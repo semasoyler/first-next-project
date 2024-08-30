@@ -1,0 +1,15 @@
+.contact{
+  
+   @apply flex items-center justify-around mt-40 bg-[url('/image/botton_banner.png')] w-full h-[292px] text-white relative
+}
+.contact h3{
+   
+    @apply text-4xl font-medium w-[268px]
+}
+.contact p{
+   
+    @apply w-[460px] mt-5
+}
+.contact button{
+
+@apply px-4 py-4 bg-white rounded-lg text-black font-medium}

@@ -1,0 +1,14 @@
+.cards{
+    
+    @apply flex justify-between mt-40
+
+}
+.cards .card{
+   
+
+    @apply flex flex-col gap-5 items-center w-[350px] text-center leading-7 text-base p-0.5
+}
+.cards .card h3{
+  
+    @apply text-xl font-semibold tracking-widest
+}

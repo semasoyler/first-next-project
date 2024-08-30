@@ -1,0 +1,28 @@
+.banner {
+
+    @apply relative mt-16 flex justify-start items-center
+}
+
+.banner .bannerSol {
+  
+    @apply absolute ml-[100px] w-[540px]
+    
+}
+
+.banner .title {
+
+    @apply text-white leading-[48px] font-medium text-5xl
+
+}
+
+.banner .text {
+   
+   
+    @apply mt-16 text-white leading-7 font-normal
+
+}
+
+.banner button {
+   
+    @apply mt-16 py-4 px-6 bg-white rounded-xl
+}

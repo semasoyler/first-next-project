@@ -1,0 +1,9 @@
+
+.projects {
+   
+    @apply mt-40 flex justify-between flex-wrap
+}
+.projects .prSol{
+
+    @apply flex flex-col justify-between
+}

@@ -1,0 +1,11 @@
+.container{
+    @apply w-[1111px] m-auto 
+}
+.head{
+    @apply flex  items-center justify-between mt-16 text-sm
+}
+
+.head ul{
+    @apply flex gap-10
+
+}
